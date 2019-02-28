@@ -1,6 +1,6 @@
 /*
  * Calculator.c
- * by Eunju TEST TEST2 jira log
+ * by Eunju TEST
  * Example showing different widgets in use.
  *
 */
